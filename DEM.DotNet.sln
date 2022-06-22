@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DEM.DotNet.Algorithm", "DEM.DotNet.Algorithm\DEM.DotNet.Algorithm.csproj", "{8ACECF3E-A8BB-4565-AFF9-1EF29D05CBE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DEM.DotNet.Algorithm.Test", "DEM.DotNet.Algorithm.Test\DEM.DotNet.Algorithm.Test.csproj", "{35803A33-2024-47C4-9A50-56B0DFEB777B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACECF3E-A8BB-4565-AFF9-1EF29D05CBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACECF3E-A8BB-4565-AFF9-1EF29D05CBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACECF3E-A8BB-4565-AFF9-1EF29D05CBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACECF3E-A8BB-4565-AFF9-1EF29D05CBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35803A33-2024-47C4-9A50-56B0DFEB777B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35803A33-2024-47C4-9A50-56B0DFEB777B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35803A33-2024-47C4-9A50-56B0DFEB777B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35803A33-2024-47C4-9A50-56B0DFEB777B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E95CE81-D574-411C-B170-3549AD168733}
+	EndGlobalSection
+EndGlobal
